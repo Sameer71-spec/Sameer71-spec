@@ -1,4 +1,6 @@
 ## Hi there 👋
+💫 About Me:  
+AI & Full-Stack Developer | Passionate about building AI tools & scalable apps
 
 <!--
 **Sameer71-spec/Sameer71-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
